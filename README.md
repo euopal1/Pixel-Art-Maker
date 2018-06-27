@@ -1,4 +1,4 @@
-# Pixel Art Maker Project
+## My Pixel Art Maker Project
 This app allows you to draw in pixel art with any colour of your choice
 
 ## Instructions
@@ -12,3 +12,6 @@ This app allows you to draw in pixel art with any colour of your choice
 • Double click a cell to reset it's colour back to white;
 
 • Press submit button to clear the grid;
+
+Check out: https://euopal1.github.io/Pixel-Art-Maker/
+
