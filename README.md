@@ -1,16 +1,14 @@
 # Pixel Art Maker Project
-
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+This app allows you to draw in pixel art with any colour of your choice
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+• Choose the grid width and height you desire which should be greater than 0 but less than 100; 
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+• Pick the color from the ColourPicker colour palette and click submit;
 
-## Contributing
+• Draw using the mouse by clicking and moving;
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+• Double click a cell to reset it's colour back to white;
+
+• Press submit button to clear the grid;
